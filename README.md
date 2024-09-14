@@ -15,7 +15,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/trademarkia-document-retrieval.git
+    git clone https://github.com/VatsalS31/trademarkia-document-retrieval.git
     ```
 2. **Navigate to the project directory:**
     ```bash
@@ -24,7 +24,8 @@ To set up this project locally, follow these steps:
 3. **Create and activate a virtual environment (optional but recommended):**
     ```bash
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate
+    # On Windows use `venv\Scripts\activate`
     ```
 4. **Install the required dependencies:**
     ```bash
@@ -69,15 +70,13 @@ Contributions are welcome! To contribute:
     ```
 5. **Submit a pull request.**
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any questions or inquiries, contact:
 
 - **Name:** Vatsal Shah
-- **Email:** vatsalshah@example.com
-- **GitHub:** [https://github.com/vatsalshah](https://github.com/vatsalshah)
+- **Email:** vatsalvshah112@gmail.com
+- **GitHub:** [https://github.com/vatsalshah](https://github.com/VatsalS31)
 
 ## Acknowledgements
 - [FastAPI](https://fastapi.tiangolo.com) for building modern and fast APIs
